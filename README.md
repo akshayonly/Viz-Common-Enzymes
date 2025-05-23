@@ -52,7 +52,7 @@ Visualizations are enriched by enzyme class and publication links.
 
 ![HTML Visualization 2](https://raw.githubusercontent.com/akshayonly/Enzymes-Network-Graph/main/Screenshot%202022-03-11%20165902.png)
 
-- Enzyme nodes are colored by class (e.g., Oxidoreductases, Transferases).
+- Enzyme nodes are colored by diseases (e.g., Covid-19 and Cancer).
 - Interactive output allows zoom, search, and node inspection.
 
 ---
